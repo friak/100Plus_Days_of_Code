@@ -1,3 +1,5 @@
+//From the book "Make: Getting Started with Processing" from Chapter 2 to Chapter 3 Example 7
+
 void setup() {
   background(200);
   size(480, 480);
