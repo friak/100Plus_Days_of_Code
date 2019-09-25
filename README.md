@@ -1,2 +1,2 @@
-# 100Plus_Days_of_Code
-I'm dedicating daily time to bettering my programming skills, and I'm documenting it all here on GitHub~
+# Sept 25 Unity debug
+There was a quiz in class where we were given a broken game and had to debug the errors out and fix the game.
